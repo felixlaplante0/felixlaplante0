@@ -8,7 +8,7 @@ Future PhD candidate in **causality** at Laboratoire de Mathématiques et Modél
 | --- | --- |
 | [`jmstate`](https://github.com/felixlaplante0/jmstate) | Joint multi-state models in `Python` — longitudinal markers combined with multi-state survival processes, with uniform high-probability control of survival functions. |
 | [`pitcp`](https://github.com/felixlaplante0/pitcp) | PIT-based correction conformal prediction, producing asymptotically exact conditional coverage. |
-| [`uniformbands`](https://github.com/felixlaplante0/uniformbands) | Non-asymptotic uniform confidence bands for survival functions, for rigorous inference under censoring. |
+| [`uniformbands`](https://github.com/felixlaplante0/uniformbands) | Asymptotic uniform confidence bands for survival functions. |
 | [`sbcluster`](https://github.com/felixlaplante0/sbcluster) | Spectral Bridges — scalable topological clustering via Voronoï regions and scale-invariant spectral methods. |
 | [`fastkmeanspp`](https://github.com/felixlaplante0/fastkmeanspp) | `C++`-backed k-means++ initialisation, with speedups up to 10 over `scikit-learn`. |
 
