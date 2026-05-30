@@ -14,7 +14,7 @@ Future PhD candidate in **causality** at Laboratoire de Mathématiques et Modél
 
 ### 📄 Selected publications
 
-- **A Post-Processing Conformal Prediction Approach for Conditional Coverage via Pivotal Scores** — *arXiv* preprint, 2026. [[arXiv]](https://arxiv.org/abs/2605.25852) · [[Code]](https://github.com/felixlaplante0/pitcp)
+- **A Post-Processing Conformal Prediction Approach for Conditional Coverage via Pivotal Scores** — *arXiv* preprint, 2026. [[arXiv]](https://arxiv.org/abs/2605.25852) · [[Code]](https://github.com/felixlaplante0/pitcp/tree/paper)
 - **A General Framework for Joint Multi-State Models** — *arXiv* preprint, 2025. [[arXiv]](https://arxiv.org/abs/2510.07128) · [[Code]](https://github.com/felixlaplante0/jmstate)
 - **Spectral Bridges: Scalable Spectral Clustering Based on Vector Quantization** — *Computo* journal paper, 2024. [[arXiv]](https://arxiv.org/abs/2407.07430)
 
