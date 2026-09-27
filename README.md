@@ -26,4 +26,4 @@ I’m also interested in macrophotography, which consists in taking close-up pho
 
 ---
 
-🌐 [felixlaplante0.github.io](https://felixlaplante0.github.io)
+🌐 [felixlaplante.com](https://felixlaplante.com)
